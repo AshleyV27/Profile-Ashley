@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: hsl(0, 0%, 7%);
+  color: aliceblue;
+  background-image: url("/profile/images/HD-wallpaper-skulls-jp.jpg");
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: #d6d9e0;
+  font-size: 32px;
+  font-weight: 900;
+}
+
+h2 {
+  color: #d2d9d4;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card {
+  background-color: hsl(210, 2%, 20%);
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 5%;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+}
